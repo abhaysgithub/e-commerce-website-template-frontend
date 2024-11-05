@@ -1,6 +1,8 @@
 # E-commerce Website Template - Frontend
 
-A flexible frontend template for e-commerce websites, designed to showcase products, handle cart functionality, and streamline the user shopping experience.
+A flexible frontend template for e-commerce websites, designed to showcase products, handle cart functionality, and streamline the user shopping experience.<br>
+
+![E-Commerce Logo](link-to-your-logo.png)
 - check it out : **https://abhaysgithub.github.io/e-commerce-website-template-frontend/**
 
 ## Introduction
