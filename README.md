@@ -1,7 +1,7 @@
-# E-commerce Template Website - Frontend
+# E-commerce Website Template - Frontend
 
 A flexible frontend template for e-commerce websites, designed to showcase products, handle cart functionality, and streamline the user shopping experience.
-- check it out : **https://abhaysgithub.github.io/e-commerce-template-website-frontend/**
+- check it out : **https://abhaysgithub.github.io/e-commerce-website-template-frontend/**
 
 ## Introduction
 
@@ -19,4 +19,4 @@ The **E-commerce website** is a front-end framework for online retail platforms,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhaysgithub/e-commerce-template-website-frontend.git
+   git clone https://github.com/abhaysgithub/e-commerce-website-template-frontend.git
